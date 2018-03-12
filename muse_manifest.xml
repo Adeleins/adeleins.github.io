@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="adeleins.me" resolutions="1x" timestamp="1520862472959">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="adeleins.me" resolutions="1x" timestamp="1520863103022">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4132951441" ref="index:contact:about-me:portfolio"/>
-    <file name="nomq_preview_master_a-master.css" crc="3830752205" ref="index:contact:about-me:portfolio"/>
+    <file name="master_a-master.css" crc="101849563" ref="index:contact:about-me:portfolio"/>
+    <file name="nomq_preview_master_a-master.css" crc="430485612" ref="index:contact:about-me:portfolio"/>
     <file name="index.css" crc="3852563531" ref="index"/>
     <file name="nomq_index.css" crc="4291535806" ref="index"/>
     <file name="contact.css" crc="3841105931" ref="contact"/>
@@ -49,8 +49,9 @@
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
     </file>
-    <file name="clouds-01191x159.png" crc="82081762" seo="true" ref="contact">
+    <file name="clouds-01191x159.png" crc="82081762" seo="true" ref="contact:index">
       <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="pagina web design -01414x397.png" crc="174827024" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
@@ -86,7 +87,7 @@
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
     </file>
-    <file name="pasted svg 112036x112_poster_.png" crc="4196040686" ref="contact"/>
+    <file name="pasted svg 112036x112_poster_.png" crc="4196040686" ref="contact:index"/>
     <file name="pasted-svg-112039x112.svg" crc="86736594" seo="true" ref="contact:portfolio:index:about-me">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -101,7 +102,7 @@
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
     </file>
-    <file name="pasted svg 112039x112_poster_.png" crc="4267279708" ref="contact"/>
+    <file name="pasted svg 112039x112_poster_.png" crc="4267279708" ref="contact:index"/>
     <file name="pasted-svg-112038x112.svg" crc="3869906748" seo="true" ref="contact:portfolio:index:about-me">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -116,7 +117,7 @@
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
     </file>
-    <file name="pasted svg 112038x112_poster_.png" crc="4145527672" ref="contact"/>
+    <file name="pasted svg 112038x112_poster_.png" crc="4145527672" ref="contact:index"/>
     <file name="swirl_pattern.jpg" crc="3759888334" ref="contact:portfolio:index:about-me">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -131,13 +132,17 @@
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
     </file>
-    <file name="clouds-01141x117.png" crc="4181948819" seo="true" ref="contact">
+    <file name="clouds-01141x117.png" crc="4181948819" seo="true" ref="contact:index">
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="clouds-01123x102.png" crc="188202729" seo="true" ref="contact">
+    <file name="clouds-01123x102.png" crc="188202729" seo="true" ref="contact:index">
       <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="pagina web design -01265x254.png" crc="50154351" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
@@ -148,18 +153,22 @@
     <file name="pagina web design -0163x60.png" crc="361013328" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="clouds-0188x73.png" crc="4148389178" seo="true" ref="contact">
+    <file name="clouds-0188x73.png" crc="4148389178" seo="true" ref="contact:index">
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="pagina web design -01166x159.png" crc="363500764" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="clouds-0177x64.png" crc="3844960289" seo="true" ref="contact">
+    <file name="clouds-0177x64.png" crc="3844960289" seo="true" ref="contact:index">
       <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="clouds-01118x98.png" crc="3855210238" seo="true" ref="contact">
+    <file name="clouds-01118x98.png" crc="3855210238" seo="true" ref="contact:index">
       <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="contact:portfolio:index:about-me"/>
     <file name="1.jpg" crc="256479196" seo="true" ref="portfolio">
@@ -269,6 +278,6 @@
   </folder>
   <file name="contact.html" crc="3951819575" seo="true" mt="1520860612498" redirect="true"/>
   <file name="portfolio.html" crc="4049075334" seo="true" mt="1520860612498" redirect="true"/>
-  <file name="index.html" crc="448847056" seo="true" mt="1520860612498" redirect="true"/>
+  <file name="index.html" crc="4110413336" seo="true" mt="1520863080926" redirect="true"/>
   <file name="about-me.html" crc="3899280893" seo="true" mt="1520860612498" redirect="true"/>
 </manifest>
