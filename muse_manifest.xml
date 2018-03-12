@@ -1,0 +1,274 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="adeleins.me" resolutions="1x" timestamp="1520860074494">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4025463357" ref="index:contact:about-me:portfolio"/>
+    <file name="nomq_preview_master_a-master.css" crc="3830752205" ref="index:contact:about-me:portfolio"/>
+    <file name="index.css" crc="3882903858" ref="index"/>
+    <file name="nomq_index.css" crc="4212610814" ref="index"/>
+    <file name="contact.css" crc="4158716087" ref="contact"/>
+    <file name="nomq_contact.css" crc="477298880" ref="contact"/>
+    <file name="about-me.css" crc="3837122763" ref="about-me"/>
+    <file name="nomq_about-me.css" crc="228305789" ref="about-me"/>
+    <file name="portfolio.css" crc="152448794" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="3850097531" ref="portfolio"/>
+  </folder>
+  <folder name="assets">
+    <file name="resume.pdf" crc="3767938912" seo="true" mt="1520624859000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="contact:portfolio:index:about-me"/>
+    <file name="museutils.js" crc="3803043152" ref="contact:portfolio:index:about-me"/>
+    <file name="whatinput.js" crc="86476730" ref="contact:portfolio:index:about-me"/>
+    <file name="museconfig.js" crc="4153641093" ref="contact:portfolio:index:about-me"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="contact:portfolio:index:about-me"/>
+    <file name="jquery.watch.js" crc="99325471" ref="contact:portfolio:index:about-me"/>
+    <file name="webpro.js" crc="242022427" ref="contact:portfolio"/>
+    <file name="form_check.php" crc="147359589" ref="contact"/>
+    <file name="form_throttle.php" crc="93986428" ref="contact"/>
+    <file name="form_process.php" crc="3851993751" ref="contact"/>
+    <file name="form-u2004.php" crc="4216975305" ref="contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="contact:portfolio:index:about-me"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="contact:portfolio:index:about-me"/>
+    <file name="require.js" crc="4157109226" ref="contact:portfolio:index:about-me"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="portfolio"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="portfolio"/>
+    <file name="touchswipe.js" crc="4066113679" ref="portfolio"/>
+  </folder>
+  <folder name="images">
+    <file name="clouds-01.png" crc="4268193051" seo="true" ref="contact:portfolio:index:about-me">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="clouds-01191x159.png" crc="82081762" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pagina web design -01414x397.png" crc="174827024" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pagina web design -01156x149.png" crc="3812026644" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="clouds-01-crop-u1232.png" crc="496653028" seo="true" ref="contact:portfolio:index:about-me">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="pasted-svg-112036x112.svg" crc="4175682521" seo="true" ref="contact:portfolio:index:about-me">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="pasted svg 112036x112_poster_.png" crc="4196040686" ref="contact"/>
+    <file name="pasted-svg-112039x112.svg" crc="86736594" seo="true" ref="contact:portfolio:index:about-me">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="pasted svg 112039x112_poster_.png" crc="4267279708" ref="contact"/>
+    <file name="pasted-svg-112038x112.svg" crc="3869906748" seo="true" ref="contact:portfolio:index:about-me">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="pasted svg 112038x112_poster_.png" crc="4145527672" ref="contact"/>
+    <file name="swirl_pattern.jpg" crc="3759888334" ref="contact:portfolio:index:about-me">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="clouds-01141x117.png" crc="4181948819" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="clouds-01123x102.png" crc="188202729" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pagina web design -01265x254.png" crc="50154351" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pagina web design -01100x96.png" crc="111064313" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pagina web design -0163x60.png" crc="361013328" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="clouds-0188x73.png" crc="4148389178" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pagina web design -01166x159.png" crc="363500764" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="clouds-0177x64.png" crc="3844960289" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="clouds-01118x98.png" crc="3855210238" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="contact:portfolio:index:about-me"/>
+    <file name="1.jpg" crc="256479196" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="2.jpg" crc="4225848839" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="3.jpg" crc="49204185" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="4.jpg" crc="473318644" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="6.jpg" crc="3971102246" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="5.jpg" crc="4233500465" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="8.jpg" crc="324016645" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="portfolio"/>
+    <file name="ballom134x194.png" crc="199473584" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ballom.png" crc="199473584" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina web design -01.png" crc="217724058" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hello-01.png" crc="4209972075" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ballom86x124.png" crc="4058787492" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ballom127x184.png" crc="209003283" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina web design -01384x368.png" crc="4240095413" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hello-01353x279.png" crc="3924448118" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ballom54x78.png" crc="3982362484" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ballom95x138.png" crc="3993372232" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina web design -01240x230.png" crc="3988044752" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hello-01338x266.png" crc="495182847" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0678.png" crc="368495934" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="ballom124x179.png" crc="410559961" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="me-01.png" crc="233742914" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="ballom85x122.png" crc="4218965479" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="dsc_0678246x239.png" crc="3965545314" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="ballom80x115.png" crc="4025963890" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="ballom55x79.png" crc="124251664" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="dsc_0678168x163.png" crc="4022345165" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="ballom50x72.png" crc="513732280" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="ballom34x49.png" crc="4091423285" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+  </folder>
+  <file name="contact.html" crc="230475404" seo="true" mt="1520857569557" redirect="true"/>
+  <file name="portfolio.html" crc="4039711678" seo="true" mt="1520857569557" redirect="true"/>
+  <file name="index.html" crc="51160064" seo="true" mt="1520857898053" redirect="true"/>
+  <file name="about-me.html" crc="361378432" seo="true" mt="1520857569557" redirect="true"/>
+</manifest>
