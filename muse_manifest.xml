@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="adeleins.me" resolutions="1x" timestamp="1521468420835">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="adeleins.me" resolutions="1x" timestamp="1521469402287">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="443569242" ref="about-me:portfolio:index:contact"/>
@@ -9,8 +9,8 @@
     <file name="nomq_portfolio.css" crc="3950650789" ref="portfolio"/>
     <file name="index.css" crc="4184821117" ref="index"/>
     <file name="nomq_index.css" crc="413535429" ref="index"/>
-    <file name="contact.css" crc="243175917" ref="contact"/>
-    <file name="nomq_contact.css" crc="3986377132" ref="contact"/>
+    <file name="contact.css" crc="46474507" ref="contact"/>
+    <file name="nomq_contact.css" crc="262772757" ref="contact"/>
   </folder>
   <folder name="assets">
     <file name="resume.pdf" crc="3767938912" seo="true" mt="1520624859000"/>
@@ -225,7 +225,7 @@
       <caption webpage="about-me" alt=""/>
     </file>
   </folder>
-  <file name="contact.html" crc="3863178234" seo="true" mt="1521468198041" redirect="true"/>
+  <file name="contact.html" crc="4029799105" seo="true" mt="1521469220671" redirect="true"/>
   <file name="portfolio.html" crc="272169435" seo="true" mt="1521468198041" redirect="true"/>
   <file name="index.html" crc="271512060" seo="true" mt="1521468198041" redirect="true"/>
   <file name="about-me.html" crc="412838479" seo="true" mt="1521468198041" redirect="true"/>
