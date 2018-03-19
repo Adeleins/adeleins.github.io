@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="adeleins.me" resolutions="1x" timestamp="1520863103022">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="adeleins.me" resolutions="1x" timestamp="1521467512291">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="101849563" ref="index:contact:about-me:portfolio"/>
-    <file name="nomq_preview_master_a-master.css" crc="430485612" ref="index:contact:about-me:portfolio"/>
-    <file name="index.css" crc="3852563531" ref="index"/>
-    <file name="nomq_index.css" crc="4291535806" ref="index"/>
-    <file name="contact.css" crc="3841105931" ref="contact"/>
-    <file name="nomq_contact.css" crc="144936899" ref="contact"/>
-    <file name="about-me.css" crc="183926868" ref="about-me"/>
-    <file name="nomq_about-me.css" crc="359536890" ref="about-me"/>
-    <file name="portfolio.css" crc="424349400" ref="portfolio"/>
-    <file name="nomq_portfolio.css" crc="375884056" ref="portfolio"/>
+    <file name="master_a-master.css" crc="443569242" ref="about-me:portfolio:index:contact"/>
+    <file name="nomq_preview_master_a-master.css" crc="4286827838" ref="about-me:portfolio:index:contact"/>
+    <file name="about-me.css" crc="201218839" ref="about-me"/>
+    <file name="nomq_about-me.css" crc="21264526" ref="about-me"/>
+    <file name="portfolio.css" crc="131193431" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="3988429302" ref="portfolio"/>
+    <file name="index.css" crc="4145174014" ref="index"/>
+    <file name="nomq_index.css" crc="4066054846" ref="index"/>
+    <file name="contact.css" crc="4110606188" ref="contact"/>
+    <file name="nomq_contact.css" crc="316178829" ref="contact"/>
   </folder>
   <folder name="assets">
     <file name="resume.pdf" crc="3767938912" seo="true" mt="1520624859000"/>
@@ -19,7 +19,7 @@
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="contact:portfolio:index:about-me"/>
     <file name="museutils.js" crc="3803043152" ref="contact:portfolio:index:about-me"/>
     <file name="whatinput.js" crc="86476730" ref="contact:portfolio:index:about-me"/>
-    <file name="museconfig.js" crc="4153641093" ref="contact:portfolio:index:about-me"/>
+    <file name="museconfig.js" crc="380897831" ref="contact:portfolio:index:about-me"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="contact:portfolio:index:about-me"/>
     <file name="jquery.watch.js" crc="99325471" ref="contact:portfolio:index:about-me"/>
     <file name="webpro.js" crc="242022427" ref="contact:portfolio"/>
@@ -35,43 +35,8 @@
     <file name="touchswipe.js" crc="4066113679" ref="portfolio"/>
   </folder>
   <folder name="images">
-    <file name="clouds-01.png" crc="4268193051" seo="true" ref="contact:portfolio:index:about-me">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-    </file>
-    <file name="clouds-01191x159.png" crc="82081762" seo="true" ref="contact:index">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="pagina web design -01414x397.png" crc="174827024" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
-    </file>
-    <file name="pagina web design -01156x149.png" crc="3812026644" seo="true" ref="contact">
-      <caption webpage="contact" alt=""/>
-    </file>
-    <file name="clouds-01-crop-u1232.png" crc="496653028" seo="true" ref="contact:portfolio:index:about-me">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
     <file name="pasted-svg-112036x112.svg" crc="4175682521" seo="true" ref="contact:portfolio:index:about-me">
       <caption webpage="index" alt=""/>
@@ -80,14 +45,14 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
-    <file name="pasted svg 112036x112_poster_.png" crc="4196040686" ref="contact:index"/>
+    <file name="pasted svg 112036x112_poster_.png" crc="4196040686" ref="contact"/>
     <file name="pasted-svg-112039x112.svg" crc="86736594" seo="true" ref="contact:portfolio:index:about-me">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -95,14 +60,14 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
-    <file name="pasted svg 112039x112_poster_.png" crc="4267279708" ref="contact:index"/>
+    <file name="pasted svg 112039x112_poster_.png" crc="4267279708" ref="contact"/>
     <file name="pasted-svg-112038x112.svg" crc="3869906748" seo="true" ref="contact:portfolio:index:about-me">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -110,67 +75,38 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
-    <file name="pasted svg 112038x112_poster_.png" crc="4145527672" ref="contact:index"/>
-    <file name="swirl_pattern.jpg" crc="3759888334" ref="contact:portfolio:index:about-me">
+    <file name="pasted svg 112038x112_poster_.png" crc="4145527672" ref="contact"/>
+    <file name="asanoha-400px.jpg" crc="3916133448" ref="contact:portfolio:index:about-me">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
-    </file>
-    <file name="clouds-01141x117.png" crc="4181948819" seo="true" ref="contact:index">
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="clouds-01123x102.png" crc="188202729" seo="true" ref="contact:index">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="pagina web design -01265x254.png" crc="50154351" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="pagina web design -01100x96.png" crc="111064313" seo="true" ref="contact">
-      <caption webpage="contact" alt=""/>
-    </file>
-    <file name="pagina web design -0163x60.png" crc="361013328" seo="true" ref="contact">
-      <caption webpage="contact" alt=""/>
-    </file>
-    <file name="clouds-0188x73.png" crc="4148389178" seo="true" ref="contact:index">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="pagina web design -01166x159.png" crc="363500764" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="clouds-0177x64.png" crc="3844960289" seo="true" ref="contact:index">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="clouds-01118x98.png" crc="3855210238" seo="true" ref="contact:index">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="blank.gif" crc="4208392903" ref="contact:portfolio:index:about-me"/>
+    <file name="pagina web design -01156x149.png" crc="3812026644" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
     <file name="1.jpg" crc="256479196" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -207,40 +143,44 @@
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="portfolio"/>
-    <file name="ballom134x194.png" crc="199473584" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="pagina web design -01100x96.png" crc="111064313" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pagina web design -0163x60.png" crc="361013328" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="ballom.png" crc="199473584" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pagina web design -01.png" crc="217724058" seo="true" ref="index">
+    <file name="pagina web design -01-crop-u4683.png" crc="223749789" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hello-01.png" crc="4209972075" seo="true" ref="index">
+    <file name="hello-01.png" crc="4273807496" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ballom86x124.png" crc="4058787492" seo="true" ref="index">
+    <file name="ballom125x180.png" crc="197089610" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ballom127x184.png" crc="209003283" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pagina web design -01384x368.png" crc="4240095413" seo="true" ref="index">
+    <file name="pagina web design -01385x369.png" crc="4203914949" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hello-01353x279.png" crc="3924448118" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ballom54x78.png" crc="3982362484" seo="true" ref="index">
+    <file name="ballom83x127.png" crc="4109223595" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ballom95x138.png" crc="3993372232" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pagina web design -01240x230.png" crc="3988044752" seo="true" ref="index">
+    <file name="pagina web design -01-crop-u46832.png" crc="3938771898" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hello-01338x266.png" crc="495182847" seo="true" ref="index">
+    <file name="hello-01-crop-u4700.png" crc="4142732772" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ballom68x98.png" crc="4177546740" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="dsc_0678.png" crc="368495934" seo="true" ref="about-me">
@@ -254,13 +194,19 @@
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
     </file>
+    <file name="ballom134x194.png" crc="199473584" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
     <file name="ballom85x122.png" crc="4218965479" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="ballom80x115.png" crc="4025963890" seo="true" ref="about-me">
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="dsc_0678246x239.png" crc="3965545314" seo="true" ref="about-me">
       <caption webpage="about-me" alt=""/>
     </file>
-    <file name="ballom80x115.png" crc="4025963890" seo="true" ref="about-me">
+    <file name="ballom86x124.png" crc="4058787492" seo="true" ref="about-me">
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="ballom55x79.png" crc="124251664" seo="true" ref="about-me">
@@ -272,12 +218,15 @@
     <file name="ballom50x72.png" crc="513732280" seo="true" ref="about-me">
       <caption webpage="about-me" alt=""/>
     </file>
+    <file name="ballom54x78.png" crc="3982362484" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
     <file name="ballom34x49.png" crc="4091423285" seo="true" ref="about-me">
       <caption webpage="about-me" alt=""/>
     </file>
   </folder>
-  <file name="contact.html" crc="3951819575" seo="true" mt="1520860612498" redirect="true"/>
-  <file name="portfolio.html" crc="4049075334" seo="true" mt="1520860612498" redirect="true"/>
-  <file name="index.html" crc="4110413336" seo="true" mt="1520863080926" redirect="true"/>
-  <file name="about-me.html" crc="3899280893" seo="true" mt="1520860612498" redirect="true"/>
+  <file name="contact.html" crc="3859048267" seo="true" mt="1521466418741" redirect="true"/>
+  <file name="portfolio.html" crc="4046748699" seo="true" mt="1521466275818" redirect="true"/>
+  <file name="index.html" crc="61389424" seo="true" mt="1521467223652" redirect="true"/>
+  <file name="about-me.html" crc="4052016612" seo="true" mt="1521466734276" redirect="true"/>
 </manifest>
