@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="adeleins.me" resolutions="1x" timestamp="1521468027189">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="adeleins.me" resolutions="1x" timestamp="1521468223790">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="443569242" ref="about-me:portfolio:index:contact"/>
     <file name="nomq_preview_master_a-master.css" crc="4286827838" ref="about-me:portfolio:index:contact"/>
-    <file name="about-me.css" crc="328116016" ref="about-me"/>
-    <file name="nomq_about-me.css" crc="509974986" ref="about-me"/>
-    <file name="portfolio.css" crc="26782854" ref="portfolio"/>
-    <file name="nomq_portfolio.css" crc="4225540861" ref="portfolio"/>
-    <file name="index.css" crc="4126440169" ref="index"/>
-    <file name="nomq_index.css" crc="4176320994" ref="index"/>
-    <file name="contact.css" crc="3939016544" ref="contact"/>
-    <file name="nomq_contact.css" crc="4224580605" ref="contact"/>
+    <file name="about-me.css" crc="296999976" ref="about-me"/>
+    <file name="nomq_about-me.css" crc="4240014745" ref="about-me"/>
+    <file name="portfolio.css" crc="4192762702" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="3950650789" ref="portfolio"/>
+    <file name="index.css" crc="4184821117" ref="index"/>
+    <file name="nomq_index.css" crc="413535429" ref="index"/>
+    <file name="contact.css" crc="243175917" ref="contact"/>
+    <file name="nomq_contact.css" crc="3986377132" ref="contact"/>
   </folder>
   <folder name="assets">
     <file name="resume.pdf" crc="3767938912" seo="true" mt="1520624859000"/>
@@ -225,8 +225,8 @@
       <caption webpage="about-me" alt=""/>
     </file>
   </folder>
-  <file name="contact.html" crc="88920369" seo="true" mt="1521468000392" redirect="true"/>
-  <file name="portfolio.html" crc="383419200" seo="true" mt="1521468000392" redirect="true"/>
-  <file name="index.html" crc="227789811" seo="true" mt="1521468000392" redirect="true"/>
-  <file name="about-me.html" crc="34843181" seo="true" mt="1521468000392" redirect="true"/>
+  <file name="contact.html" crc="3863178234" seo="true" mt="1521468198041" redirect="true"/>
+  <file name="portfolio.html" crc="272169435" seo="true" mt="1521468198041" redirect="true"/>
+  <file name="index.html" crc="271512060" seo="true" mt="1521468198041" redirect="true"/>
+  <file name="about-me.html" crc="412838479" seo="true" mt="1521468198041" redirect="true"/>
 </manifest>
