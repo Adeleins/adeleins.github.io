@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="adeleins.me" resolutions="1x" timestamp="1521470200916">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="adeleins.me" resolutions="1x" timestamp="1521474784417">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="443569242" ref="about-me:portfolio:index:contact"/>
     <file name="nomq_preview_master_a-master.css" crc="4286827838" ref="about-me:portfolio:index:contact"/>
-    <file name="about-me.css" crc="4208785471" ref="about-me"/>
-    <file name="nomq_about-me.css" crc="4219939086" ref="about-me"/>
-    <file name="portfolio.css" crc="3925732401" ref="portfolio"/>
-    <file name="nomq_portfolio.css" crc="65200126" ref="portfolio"/>
-    <file name="index.css" crc="4192328374" ref="index"/>
-    <file name="nomq_index.css" crc="36265432" ref="index"/>
-    <file name="contact.css" crc="375294173" ref="contact"/>
-    <file name="nomq_contact.css" crc="84128759" ref="contact"/>
+    <file name="about-me.css" crc="3861069543" ref="about-me"/>
+    <file name="nomq_about-me.css" crc="3928313564" ref="about-me"/>
+    <file name="portfolio.css" crc="127655633" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="4065153429" ref="portfolio"/>
+    <file name="index.css" crc="4291032978" ref="index"/>
+    <file name="nomq_index.css" crc="260592227" ref="index"/>
+    <file name="contact.css" crc="4171609381" ref="contact"/>
+    <file name="nomq_contact.css" crc="293372731" ref="contact"/>
   </folder>
   <folder name="assets">
     <file name="resume.pdf" crc="3767938912" seo="true" mt="1520624859000"/>
@@ -42,60 +42,60 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="pasted svg 112036x112_poster_.png" crc="4196040686" ref="contact"/>
     <file name="pasted-svg-112039x112.svg" crc="86736594" seo="true" ref="contact:portfolio:index:about-me">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="pasted svg 112039x112_poster_.png" crc="4267279708" ref="contact"/>
     <file name="pasted-svg-112038x112.svg" crc="3869906748" seo="true" ref="contact:portfolio:index:about-me">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="pasted svg 112038x112_poster_.png" crc="4145527672" ref="contact"/>
     <file name="asanoha-400px.jpg" crc="3916133448" ref="contact:portfolio:index:about-me">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="pagina web design -01265x254.png" crc="50154351" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
@@ -177,7 +177,7 @@
     <file name="pagina web design -01-crop-u46832.png" crc="3938771898" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hello-01-crop-u4700.png" crc="4142732772" seo="true" ref="index">
+    <file name="hello-01-crop-u4700.png" crc="316605638" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ballom68x98.png" crc="4177546740" seo="true" ref="index">
@@ -225,8 +225,8 @@
       <caption webpage="about-me" alt=""/>
     </file>
   </folder>
-  <file name="contact.html" crc="4232354309" seo="true" mt="1521470133640" redirect="true"/>
-  <file name="portfolio.html" crc="515011616" seo="true" mt="1521470133640" redirect="true"/>
-  <file name="index.html" crc="3875381709" seo="true" mt="1521470133640" redirect="true"/>
-  <file name="about-me.html" crc="3938992956" seo="true" mt="1521470133640" redirect="true"/>
+  <file name="contact.html" crc="4130263345" seo="true" mt="1521474713970" redirect="true"/>
+  <file name="portfolio.html" crc="435059396" seo="true" mt="1521474713970" redirect="true"/>
+  <file name="index.html" crc="4057021901" seo="true" mt="1521474714301" redirect="true"/>
+  <file name="about-me.html" crc="76731068" seo="true" mt="1521474714006" redirect="true"/>
 </manifest>
